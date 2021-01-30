@@ -1,0 +1,16 @@
+{
+  "name": "chesssquare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "Advaith S",
+  "license": "ISC",
+  "dependencies": {
+    "chess.js": "^0.10.2",
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
